@@ -1,8 +1,3 @@
-#!/usr/bin/env python3
-"""
-UMBRA PRIVACY - MAIN MENU
-Central menu system for Umbra Privacy automation
-"""
 import os
 import sys
 import asyncio
